@@ -4,6 +4,8 @@ IRC: colemole9595 on libera.chat
 
 Slack: colemole9595 in the CHIPS Alliance Workspace
 
+<sup>Click [here](https://github.com/colemole9595/gsoc22_bitstream/blob/main/README.md) for the markdown document that this proposal is generated from.</sup>
+
 ## Introduction
 
 The AMD/Xilinx Spartan 6 series of FPGAs is immensely popular and has found itself in a number of open source projects[^novena] and low cost development boards[^mimas][^mimas2]. A quick search yields many results[^int1][^int2][^int3][^int4] from as early as last year where people express interest about an open source Spartan 6 flow. The aim of this proposal is to build upon Project X-Ray's success with the Series7 and extend it to support the Spartan 6 series.
