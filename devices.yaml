@@ -1,0 +1,62 @@
+# device to fabric mapping
+
+"xc6slx4tqg144":
+  fabric: "xc6slx4"
+"xc6slx4cpg196":
+  fabric: "xc6slx4"
+"xc6slx4csg225":
+  fabric: "xc6slx4"
+"xc6slx9csg225":
+  fabric: "xc6slx9"
+"xc6slx9csg324":
+  fabric: "xc6slx9"
+"xc6slx9tqg144":
+  fabric: "xc6slx9"
+"xc6slx9ftg256":
+  fabric: "xc6slx9"
+"xc6slx9cpg196":
+  fabric: "xc6slx9"
+"xc6slx16csg324":
+  fabric: "xc6slx16"
+"xc6slx16ftg256":
+  fabric: "xc6slx16"
+"xc6slx16csg225":
+  fabric: "xc6slx16"
+"xc6slx16cpg196":
+  fabric: "xc6slx16"
+"xc6slx25csg324":
+  fabric: "xc6slx25"
+"xc6slx25fgg484":
+  fabric: "xc6slx25"
+"xc6slx25ftg256":
+  fabric: "xc6slx25"
+"xc6slx25tcsg324":
+  fabric: "xc6slx25t"
+"xc6slx25tfgg484":
+  fabric: "xc6slx25t"
+"xc6slx45fgg484":
+  fabric: "xc6slx45"
+"xc6slx45csg324":
+  fabric: "xc6slx45"
+"xc6slx45fgg676":
+  fabric: "xc6slx45"
+"xc6slx45csg484":
+  fabric: "xc6slx45"
+"xc6slx45tfgg484":
+  fabric: "xc6slx45t"
+"xc6slx45tcsg324":
+  fabric: "xc6slx45t"
+"xc6slx45tcsg484":
+  fabric: "xc6slx45t"
+"xc6slx75csg484":
+  fabric: "xc6slx75"
+"xc6slx75fgg484":
+  fabric: "xc6slx75"
+"xc6slx75fgg676":
+  fabric: "xc6slx75"
+"xc6slx75tfgg676":
+  fabric: "xc6slx75t"
+"xc6slx75tcsg484":
+  fabric: "xc6slx75t"
+"xc6slx75tfgg484":
+  fabric: "xc6slx75t"
