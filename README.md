@@ -4,7 +4,7 @@ IRC: colemole9595 on libera.chat
 
 Slack: colemole9595 in the CHIPS Alliance Workspace
 
-<sup>Click [here](https://github.com/colemole9595/gsoc22_bitstream/blob/main/README.md) for the markdown document that this proposal is generated from.</sup>
+<sup>Click [here](https://github.com/colemole9595/gsoc22_bitstream/blob/main/README.md) for the markdown document that this proposal is generated from. It has working footnotes.</sup>
 
 ## Introduction
 
